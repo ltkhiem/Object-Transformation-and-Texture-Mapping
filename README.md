@@ -1,1 +1,1 @@
-# Computer-Graphics---Object-Transformation-and-Texture-Mapping
+# Object Transformation and Texture Mapping
