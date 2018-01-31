@@ -35,5 +35,5 @@ There are multiple way to map the texture to object. One simple approach could b
 
 
 
-![TextureMapImg](/Screenshots/texturemapimg.PNG)
+![TextureMapImg](/Screenshots/texturemapimg.gif)
 
